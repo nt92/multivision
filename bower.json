@@ -1,0 +1,25 @@
+{
+  "name": "multivision",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nikhil Thota <nt92@ufl.edu>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nt92/multivision",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.5",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.5.5"
+  }
+}
